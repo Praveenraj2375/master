@@ -5,3 +5,6 @@ var a = Int()
     return Double(a) + b
   }
 }
+
+class Demo3{
+}
